@@ -1,0 +1,38 @@
+{
+  "title": "Renjith Nair",
+  "name": "renjith-nair-web",
+  "version": "4.0.0-alpha",
+  "description": "Renjith Nair's Web Page",
+  "keywords": [
+    "Renjith Nair",
+    "Renjith",
+    "Nair",
+    "Solution Architect",
+    "Architect",
+    "Technology"
+  ],
+  "homepage": "http://renjithnair.net",
+  "bugs": {
+    "url": "https://github.com/shrirenjith/shrirenjith.com/issues",
+    "email": "mail@renjithnair.net"
+  },
+  "license": "MIT",
+  "author": "Start Bootstrap",
+  "contributors": [
+    "David Miller (http://davidmiller.io/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shrirenjith/shrirenjith.com.git"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "jquery": "^3.2.1",
+    "jquery.easing": "^1.4.1",
+    "popper.js": "^1.12.3"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1"
+  }
+}
