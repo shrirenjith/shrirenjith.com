@@ -40,7 +40,6 @@ svg:hover path {
 
 .myBox:hover{
    background-color:#d0d6e2;
-   color: white;
    cursor: pointer;
 }
 }
