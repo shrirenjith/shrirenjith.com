@@ -15,3 +15,32 @@ header {
 section {
     padding: 100px 0;
 }
+
+.icon {
+  user-select: none;
+    cursor: pointer;
+    display: block;
+    width: 32px;
+    height: 32px;
+}
+
+svg path {
+    fill: black;
+}
+svg:hover path {
+    fill: grey;
+}
+
+
+
+.card-block{
+     padding: 24px 0;
+
+}
+
+.myBox:hover{
+   background-color:#d0d6e2;
+   color: white;
+   cursor: pointer;
+}
+}
