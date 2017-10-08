@@ -34,11 +34,13 @@ svg:hover path {
 
 
 .card-block{
-     padding: 24px 0;
+  padding-right: 2px;
+  padding-bottom: 2px;
+  padding-left: 2px;
 
 }
 
-.myBox:hover{
+.cardBox:hover{
    background-color:#d0d6e2;
    cursor: pointer;
 }
