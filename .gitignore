@@ -6,7 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 build
 .DS_Store
-src/.DS_Store
+images/.DS_Store
 
 # Runtime data
 pids
