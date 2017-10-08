@@ -24,7 +24,7 @@ artifacts:
     - 'js/*'
     - 'vendor/*'
     - 'index.html'
-    - 'favicon.io'
+    - 'favicon.ico'
   base-directory: './'
   
     
