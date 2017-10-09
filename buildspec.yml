@@ -22,7 +22,7 @@ artifacts:
     - 'css/*'
     - 'images/*'
     - 'js/*'
-    - 'vendor/*'
+    - 'vendor/*/*'
     - 'index.html'
     - 'favicon.ico'
   base-directory: './'
