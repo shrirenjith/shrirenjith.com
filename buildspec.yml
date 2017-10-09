@@ -19,10 +19,10 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files: 
-    - 'css/*'
-    - 'images/*'
-    - 'js/*'
-    - 'vendor/*/*'
+    - 'css/**/*'
+    - 'images/**/*'
+    - 'js/**/*'
+    - 'vendor/**/*'
     - 'index.html'
     - 'favicon.ico'
   base-directory: './'
